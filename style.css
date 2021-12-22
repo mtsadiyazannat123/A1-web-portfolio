@@ -1,0 +1,18 @@
+h1{
+    font: 50px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.highlight{
+    color: coral;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
